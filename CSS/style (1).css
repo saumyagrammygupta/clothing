@@ -1,0 +1,8 @@
+body{background-color:yellow;
+ margin: 60px; padding-left:200px; padding-top: 50px;}
+li {display:inline;} 
+p{color:red;}
+p{font-size:200%;}
+h{font-size: 400%;}
+ul{font-size:300%;}
+ul{color:darkslategrey}
